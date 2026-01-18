@@ -1,4 +1,16 @@
-## Hi there 👋
+ Hi, I'm Achal 👋
+
+🎓 Computer Engineering Student  
+🐍 Python Learner  
+
+Skills (Learning)
+- Python (Basics)
+- Database Concepts (Basics)
+- HTML, CSS (Basics)
+
+  
+
+
 
 <!--
 **Achal248/Achal248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
